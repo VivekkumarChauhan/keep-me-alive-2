@@ -6,9 +6,10 @@ import datetime
 URLS = [
                 # Replace with actual project 1
        # Replace with actual project 2
-    "https://github.com/Roshan-Singh-06/keep-me-alive-2"  # Replace with actual project 3
+    "https://github.com/Roshan-Singh-06/keep-me-alive-2" ,
+    "https://asha-backend-vnki.onrender.com"# Replace with actual project 3
     
-    ,
+    
 ]
 
 def ping_backend(url):
