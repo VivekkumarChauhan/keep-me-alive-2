@@ -7,7 +7,7 @@ URLS = [
                 # Replace with actual project 1
        # Replace with actual project 2
     "https://sam-backend-4a4r.onrender.com/" ,
-    "https://asha-backend-vnki.onrender.com"# Replace with actual project 3
+    "https://sql-ai-agent-eyg0.onrender.com"# Replace with actual project 3
     
     
 ]
