@@ -7,7 +7,7 @@ URLS = [
                 # Replace with actual project 1
        # Replace with actual project 2
     "https://watchflow-backend.onrender.com" ,
-    "https://sql-ai-agent-eyg0.onrender.com"# Replace with actual project 3
+    "https://smartsession-backend-0czk.onrender.com"# Replace with actual project 3
     
     
 ]
