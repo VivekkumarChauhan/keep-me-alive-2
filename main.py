@@ -4,11 +4,9 @@ import datetime
 
 # List of backend URLs to ping
 URLS = [
-                # Replace with actual project 1
+        "https://fluentedge-backend.onrender.com"        # Replace with actual project 1
        # Replace with actual project 2
-    "https://watchflow-backend.onrender.com" ,
-    "https://fluentedge-backend.onrender.com" ,# Replace with actual project 3
-    "https://fluentedge-backend.onrender.com"
+    
     
     
 ]
