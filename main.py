@@ -5,7 +5,7 @@ import datetime
 # List of backend URLs to ping
 URLS = [
         "https://fluentedge-backend.onrender.com"        # Replace with actual project 1
-       # Replace with actual project 2
+        "https://honeyshield-backend.onrender.com"# Replace with actual project 2
     
     
     
