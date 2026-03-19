@@ -6,6 +6,7 @@ import datetime
 URLS = [
         "https://fluentedge-backend.onrender.com"        # Replace with actual project 1
         "https://honeyshield-backend.onrender.com"# Replace with actual project 2
+        "https://honeyshield-web.onrender.com"
     
     
     
